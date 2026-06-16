@@ -4,10 +4,10 @@
 
 I turn technical software into clear business value for the people who actually use it — combining two years of customer-facing Solutions Engineering experience with hands-on full-stack development.
 
-- 🔭 **Currently:** Solutions Engineer Intern @ SnapSOP — running product demos, discovery calls, and customer onboarding for manufacturing businesses
-- 🎓 **B.A. Computer Science**, University of Colorado Colorado Springs (Dec 2026)
-- 🎯 **Seeking:** Associate Solutions Engineer / Sales Engineer roles
-- 📍 Colorado Springs, CO
+- Currently: Solutions Engineer Intern @ SnapSOP — running product demos, discovery calls, and customer onboarding for manufacturing businesses
+- B.A. Computer Science, University of Colorado Colorado Springs (Dec 2026)
+- Seeking: Associate Solutions Engineer / Sales Engineer roles
+- Colorado Springs, CO
 
 ---
 

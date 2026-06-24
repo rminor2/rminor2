@@ -26,4 +26,4 @@ Technical demos & discovery calls · Requirements gathering & solution design ·
 - **[Portfolio site](https://github.com/rminor2/ResumeWebsite)** — my multi-page personal site, built from scratch in vanilla JS (WebGL hero, animated knowledge graph, no framework)
 
 #### Let's connect
-📫 minor.ryan13@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ryan-minor) · 🌐 [Portfolio](https://rminor2.github.io/ResumeWebsite/)
+📫 minor.ryan13@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ryan-minor-825126228) · 🌐 [Portfolio](https://rminor2.github.io/ResumeWebsite/)
